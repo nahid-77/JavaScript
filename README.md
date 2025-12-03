@@ -126,8 +126,9 @@ If you find this repository useful, don’t forget to **star ⭐ the repo** to s
 
 ## 📩 Contact
 
-Nahid Hosen Tuhin
-GitHub: https://github.com/nahid-77
+**Nahid Hosen Tuhin**  
+GitHub: https://github.com/nahid-77  
 LinkedIn: https://www.linkedin.com/in/md-nahid-hosen-aaa5b7239/
+
 
 ---
