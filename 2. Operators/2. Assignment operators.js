@@ -2,6 +2,7 @@
 
 let a = 10;   // assigns value 10 to variable a
 let b = 5;    // assigns value 5 to variable b
+
 console.log(a);   // 10
 console.log(b);   // 5
 
